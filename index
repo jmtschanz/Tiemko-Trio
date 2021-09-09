@@ -41,7 +41,7 @@
 <tr></td></tr>
 </table>
 
-<img src="Borniche.jpg" alt="Dommage si tu peux pas charger cette super image" left="0" style="z-index:3; top:0; left:0; right:0; width=100%; height=166%; position:fixed; alpha(opacity=100) />
+<img src="Borniche.jpg" alt="Dommage si tu peux pas charger cette super image" left="0" style="z-index:2; top:0; left:0; right:0; width=100%; height=166%; position:fixed; alpha(opacity=60) />
 
 <iframe onLoad="actu_iframe()" allowTransparency="true" src="accueil.htm" name="content" id="id_iframe" frameborder=no marginheight=0 style="position:fixed; _position:absolute; _scrolling:yes; z-index:3; width:89%; left:11%; height:87.5%; top:117px; right:0px" >Your browser does not support iframes</iframe>
 
