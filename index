@@ -15,16 +15,16 @@
 
 <body margin-left=0 margin-right=0 margin-top=0 z-index=1 >
 
-<table bgcolor=#6f6b67 frameborder=no marginheight=0 border=0 cellpadding=0 cellspacing=0>
+<table bgcolor=#39211D frameborder=no marginheight=0 border=0 cellpadding=0 cellspacing=0>
 <tbody>
 <tr>
-<td style="position:fixed; _position:relative; z-index:4; left:0%; right:35%; top:0;" bgcolor=#17C6FF><img align=left alt="Un jpg magnifique devrait être visible ici" src="Tyr Chauvidan.jpg" style="flag-element Chauvidan; align:left; height:100%"/>
+<td style="position:fixed; _position:relative; z-index:4; left:0%; right:30%; top:0;" bgcolor=#17C6FF><img align=left alt="Un jpg magnifique devrait être visible ici" src="Tyr Chauvidan.jpg" style="flag-element Chauvidan; align:left; height:100%"/>
 </td>
-<td style="position:fixed; _position:absolute;  z-index:4; left:35%; right:65%; top:0;" bgcolor=#17C6FF><img align=center alt="Vous ne voyez rien ?" src="Tyr Toussaint.jpg" style="flag-element Toussaint; align:left; height:100%"/>
+<td style="position:fixed; _position:absolute;  z-index:4; left:30%; right:63%; top:0;" bgcolor=#17C6FF><img align=center alt="Vous ne voyez rien ?" src="Tyr Toussaint.jpg" style="flag-element Toussaint; align:left; height:100%"/>
 </td>
-<td style="position:fixed; _position:absolute; z-index:3; left:65%; top:0;" bgcolor=#17C6FF><img align=centeralt="Décidément cet amateur de Jean-Marie Tschanz finit par nous faire douter de ses comp‚tences" src="Tyr Delaunay bis.jpg" style= align:right; height:100%"/>
+<td style="position:fixed; _position:absolute; z-index:2; left:63%; top:0;" bgcolor=#17C6FF><img align=centeralt="Décidément cet amateur de Jean-Marie Tschanz finit par nous faire douter de ses comp‚tences" src="Tyr Delaunay bis.jpg" style= align:right; height:100%"/>
 </td>
-<td style="position:fixed; _position:absolute; z-index:4; left:65%; top:0;" bgcolor=#17C6FF><img align=right alt="Qui a mal cod‚ cette s‚quence" src="Tyr Delaunay ter.jpg" style=flag-element Delaunay; align:right; height:100%"/>
+<td style="position:fixed; _position:absolute; z-index:4; left:63%; top:0;" bgcolor=#17C6FF><img align=right alt="Qui a mal cod‚ cette s‚quence" src="Tyr Delaunay float.jpg" style=flag-element Delaunay; align:right; height:100%"/>
 </td>
 </tr>
 </tbody>
