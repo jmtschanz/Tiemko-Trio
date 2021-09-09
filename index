@@ -18,15 +18,15 @@
 <table bgcolor=#6f6b67 frameborder=no marginheight=0 border=0 cellpadding=0 cellspacing=0>
 <tbody>
 <tr>
-<td style="position:fixed; _position:absolute; width:100%; z-index:4; left:0; top:0;" bgcolor=#17C6FF><img align=left alt="Un jpg magnifique devrait ˆtre visible ici" src="Tyr Chauvidan.jpg" style="flag-element Chauvidan; align:left; height:100%"/>
+<td style="position:fixed; _position:absolute; z-index:4; left:0; top:0;" bgcolor=#17C6FF><img align=left alt="Un jpg magnifique devrait ˆtre visible ici" src="Tyr Chauvidan.jpg" style="flag-element Chauvidan; align:left; height:100%"/>
 </td>
 
-<td style="position:fixed; _position:absolute; width:100%; z-index:4; left:0; top:0;" bgcolor=#17C6FF><img align=center alt="Vous ne voyez rien ?" src="Tyr Toussaint.jpg" style="flag-element Toussaint; align:left; height:100%"/>
+<td style="position:fixed; _position:absolute; z-index:4; left:0; top:0;" bgcolor=#17C6FF><img align=center alt="Vous ne voyez rien ?" src="Tyr Toussaint.jpg" style="flag-element Toussaint; align:left; height:100%"/>
 </td>
 
-<td style="position:fixed; _position:absolute; width:100%; z-index:3; left:0; top:0;" bgcolor=#17C6FF><img align=centeralt="D‚cid‚ment cet amateur de Jean-Marie Tschanz finit par nous faire douter de ses comp‚tences" src="Tyr Delaunay bis.jpg" style= align:right; height:100%"/>
+<td style="position:fixed; _position:absolute; z-index:3; left:0; top:0;" bgcolor=#17C6FF><img align=centeralt="D‚cid‚ment cet amateur de Jean-Marie Tschanz finit par nous faire douter de ses comp‚tences" src="Tyr Delaunay bis.jpg" style= align:right; height:100%"/>
 </td>
-<td style="position:fixed; _position:absolute; width:100%; z-index:4; left:0; top:0;" bgcolor=#17C6FF><img align=right alt="Qui a mal cod‚ cette s‚quence" src="Tyr Delaunay ter.jpg" style=flag-element Delaunay; align:right; height:100%"/>
+<td style="position:fixed; _position:absolute; z-index:4; left:0; top:0;" bgcolor=#17C6FF><img align=right alt="Qui a mal cod‚ cette s‚quence" src="Tyr Delaunay ter.jpg" style=flag-element Delaunay; align:right; height:100%"/>
 </td>
 </tr>
 </tbody>
@@ -35,7 +35,7 @@
 <table style="position:relative; z-index:4;">
 <tr> 
 <td style="position:fixed; _position:absolute; z-index:5; left:40%; top:53px; COLOR: #4F4D43; FONT-WEIGHT: bold; FONT-SIZE: 80%; MARGIN-RIGHT:25px; MARGIN-BOTTOM:18px; TEXT-ALIGN:center; FONT-FAMILY: Tahoma, sans-serif">
-<div>Site en l'honneur de l'aventure audacieuse et passionnée de Tiemko</div>
+<div>Ce texte ne devrait pas être visible</div>
 </td></tr>
 </table>
 
