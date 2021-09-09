@@ -1,0 +1,192 @@
+@charset "iso-8859-1";
+
+
+
+
+.pasBODY {
+	background-image:url("SerreBgd.jpg"); position:fixed;
+}
+BACKGROUND {}
+
+P {
+	FONT-SIZE: 12px; FONT-FAMILY: Tahoma,verdana,helvetica,sans-serif
+}
+TABLE {
+	FONT-SIZE: 16px; FONT-FAMILY: Tahoma,verdana,helvetica,sans-serif
+}
+IFRAME {
+	FONT-SIZE: 16px; FONT-FAMILY: Tahoma,verdana,helvetica,sans-serif
+}
+TD {
+	FONT-WEIGHT: bold;  FONT-SIZE: 16px; FONT-FAMILY: verdana, Tahoma, sans-serif }
+				
+TBODY{
+	FONT-SIZE: 16px; FONT-FAMILY: Tahoma,verdana,helvetica,sans-serif
+} 
+
+.titre {
+	position:fixed; _position:absolute; z-index:4; left:30%; top:53px;
+	COLOR: #4F4D43; FONT-WEIGHT: bold; FONT-SIZE: 80%; MARGIN-RIGHT:25px; MARGIN-BOTTOM:18px; TEXT-ALIGN:center; FONT-FAMILY: Tahoma, sans-serif
+	
+}
+.avanttitre {
+	COLOR: #000000; FONT-WEIGHT: bold; FONT-SIZE: 12px; TEXT-ALIGN: right; MARGIN-RIGHT:81px; MARGIN-bottom:10px; FONT-FAMILY: Tahoma, sans-serif
+}
+.pretitre {
+	COLOR: #544A42; FONT-WEIGHT: bold;  FONT-SIZE: 17px; TEXT-ALIGN: center;  FONT-FAMILY: Tahoma, sans-serif 
+}
+.menu1 {
+	COLOR: #FFEEC5; FONT-WEIGHT: bold;  FONT-SIZE: 1.2em; MARGIN-LEFT:1em; MARGIN-TOP:8px; MARGIN-BOTTOM:0.5em; FONT-FAMILY: Tahoma, sans-serif }
+
+		a:visited {color: #C2C2C4 }
+		a:hover {color: #F1F1F1}
+
+.menu2 {
+	COLOR: #A2A2A4; FONT-WEIGHT: bold;  FONT-SIZE: 0.82em; MARGIN-TOP:6px; MARGIN-BOTTOM:6px; MARGIN-LEFT:2em; FONT-FAMILY: Tahoma, sans-serif }
+	
+		a {text-decoration: none; COLOR: #f1f1f1 }
+		a:visited {color: #FFEEC5 }
+		a:hover {color: #C2C2C4}
+		
+.narr { 
+	COLOR: #F1F1F1; FONT-WEIGHT: bold;  FONT-SIZE: 14px; TEXT-Align:left; MARGIN-LEFT:35px; FONT-FAMILY: Tahoma, sans-serif }
+
+.narr2 { STYLE="position:absolute; left:240px; width:600px"
+	COLOR: #000000 }	
+
+.narrctr {
+	COLOR: #F1F1F1; FONT-WEIGHT: bold;  FONT-SIZE: 12px; TEXT-Align:center; FONT-FAMILY: Tahoma, sans-serif }
+
+
+
+
+
+.barretitre {
+	border=0px; cellpadding=0px; cellspacing=0px; style="position:fixed; _position:absolute; z-index:3; height:117; width:100%; top:0;
+
+.flag {
+    width:300px;
+    height:200px;
+    margin:50px;
+}
+.flag-element Chauvidan {
+    -webkit-animation:oscill 1s ease-in-out infinite alternate; 
+    -moz-animation:oscill 1s ease-in-out infinite alternate; 
+    -ms-animation:oscill 1s ease-in-out infinite alternate; 
+    animation:oscill 1s ease-in-out infinite alternate; 
+    background img: Tyr Chauvidan.jpg;
+    background-size: 300px 100%;
+    position:relative;
+    height:100%;
+    width:1px;
+    display:inline-block;
+    box-shadow:0 1px grey, 0 -1px gray;
+}
+.flag-element Toussaint {
+    -webkit-animation:oscill 1s ease-in-out infinite alternate; 
+    -moz-animation:oscill 1s ease-in-out infinite alternate; 
+    -ms-animation:oscill 1s ease-in-out infinite alternate; 
+    animation:oscill 1s ease-in-out infinite alternate; 
+    background img: Tyr Toussaint.jpg;
+    background-size: 300px 100%;
+    position:relative;
+    height:100%;
+    width:1px;
+    display:inline-block;
+    box-shadow:0 1px grey, 0 -1px gray;
+}
+
+.flag-element Delaunay {
+    -webkit-animation:oscill 1s ease-in-out infinite alternate; 
+    -moz-animation:oscill 1s ease-in-out infinite alternate; 
+    -ms-animation:oscill 1s ease-in-out infinite alternate; 
+    animation:oscill 1s ease-in-out infinite alternate; 
+    background img: Tyr Delaunay ter.jpg;
+    background-size: 300px 100%;
+    position:relative;
+    height:100%;
+    width:1px;
+    display:inline-block;
+    box-shadow:0 1px grey, 0 -1px gray;
+}
+
+@-webkit-keyframes oscill {
+    0% {
+        top: 5%;
+    }        
+    100% {
+        top: -5%;
+    }
+}
+@-moz-keyframes oscill {
+    0% {
+        top: 5%;
+    }        
+    100% {
+        top: -5%;
+    }
+}
+@-ms-keyframes oscill {
+    0% {
+        top: 5%;
+    }        
+    100% {
+        top: -5%;
+    }
+}
+@keyframes oscill {
+    0% {
+        top: 5%;
+    }        
+    100% {
+        top: -5%;
+    }
+}
+
+<!--[if IE]>
+
+position:absolute; 
+
+top: expression( 
+(document.compatMode && document.compatMode == 'CSS1Compat') ? 
+(documentElement.scrollTop) : 
+(document.body.scrollTop) 
+); 
+
+<![endif]-->
+
+ left:0;  right:0" bgcolor="#6f6b67" }
+
+
+
+
+
+
+
+
+
+
+
+#serre (background-image:url("serre.jpg") alt="Dommage si tu peux pas charger cette super image" left="0" position:fixed; z-index:2; top:0; left:0; right:0; width=100%; height=166% filter:alpha(opacity=8); opacity:0.08" )
+
+
+.serre {
+	background-image:url("serre.jpg");
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100%;
+	z-index:1;
+}
+.zindex3 {
+	z-index:3; 
+}
+
+<s*c*r*ipt>
+function actu_iframe(){
+if(navigator.appName=="Microsoft Internet Explorer" ){
+ if(document.all) document.all.id_iframe.style.height = document.frames("id_iframe" ).document.body.scrollHeight;
+ else document.getElementById("id_iframe" ).style.height = document.getElementById("id_iframe" ).contentDocument.body.scrollHeight;
+ }
+}
+<*/*s*c*ript>	
