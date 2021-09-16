@@ -37,7 +37,7 @@
 </td></tr>
 </table>
 
-<table style="z-index:1; position:fixed; _position:absolute; height:88%; width:110px; left:0%; top:116px" >
+<table style="z-index:1; position:fixed; _position:absolute; height:81%; width:110px; left:0%; top:19%" >
 <tr></td></tr>
 </table>
 
@@ -51,9 +51,9 @@
 	<tr><td height="8%" ><a href="Tiemko avant Tiemko.htm" onmouseover="javascript:newIframe(2)" name="Tiemko avant Tiemko" class="menu1">Tiemko avant Tiemko</a></td></tr>
 	<tr><td height="5%" ><a href="Tiemko 1986-1995.htm" onmouseover="javascript:newIframe(4)" name="Tiemko 1986-1995" class="menu2">Tiemko 1986-1995</a></td></tr>
 	<tr><td height="5%" ><a href="Tiemko après 1995.htm" onmouseover="javascript:newIframe(5)" name="Tiemko après 1995" class="menu2">Tiemko après 1995</a></td></tr>
-	<tr><td height="5%" ><a href="Éric Delaunay en solo.htm" onmouseover="javascript:newIframe(6)" name="Éric Delaunay en solo" class="menu2">img="Éric Delaunay Parade" </a></td></tr>
-	<tr><td height="5%" ><a href="Jean-Jacques Toussaint en solo.htm" onmouseover="javascript:newIframe(7)" name="Jean-Jacques Toussaint en solo" class="menu2">img="Jean-Jacques Toussaint Parade"</a></td></tr>
-	<tr><td height="8%" ><a href="Rémy Chauvidan en solo" onmouseover="javascript:newIframe(1)" name="forum" class="menu1">img="Rémy Chauvidan Parade"</a></td></tr>	
+	<tr><td height="5%" ><a href="Éric Delaunay en solo.htm" onmouseover="javascript:newIframe(6)" name="Éric Delaunay en solo" class="menu2"><img src="Éric Delaunay Parade" /></a></td></tr>
+	<tr><td height="5%" ><a href="Jean-Jacques Toussaint en solo.htm" onmouseover="javascript:newIframe(7)" name="Jean-Jacques Toussaint en solo" class="menu2"><img src="Jean-Jacques Toussaint Parade" /></a></td></tr>
+	<tr><td height="8%" ><a href="Rémy Chauvidan en solo" onmouseover="javascript:newIframe(1)" name="forum" class="menu1"><img src="Rémy Chauvidan Parade" /></a></td></tr>	
 	<tr><td height="48%"></td></tr>
 </table>
 
