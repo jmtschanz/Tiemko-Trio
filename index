@@ -22,9 +22,9 @@
 </td>
 <td style="position:fixed; _position:absolute; z-index:3; height:19%; left:30%; right:63%; top:0;" bgcolor=#39211D><img align=center src="Tyr Toussaint.jpg" style="flag-element Toussaint" />
 </td>
-<td style="position:fixed; _position:absolute; z-index:2; height:19%; left:63%; top:0;" bgcolor=#39211D><img align=right src=Tyr Delaunay bis.jpg "/>
+<td style="position:fixed; _position:absolute; z-index:2; height:19%; left:63%; top:0;" bgcolor=#39211D><img align=right src="Tyr Delaunay bis.jpg" />
 </td>
-<td style="position:fixed; _position:absolute; z-index:3; height:19%; left:63%; top:0;" bgcolor=#39211D><img align=right src=Tyr Delaunay float.png style=flag-element Delaunay/>
+<td style="position:fixed; _position:absolute; z-index:3; height:19%; left:63%; top:0;" bgcolor=#39211D><img align=right src="Tyr Delaunay float.png" style=flag-element Delaunay/>
 </td>
 </tr>
 </tbody>
