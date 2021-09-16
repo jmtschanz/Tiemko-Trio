@@ -15,16 +15,16 @@
 
 <body margin-left=0 margin-right=0 margin-top=0 z-index=1 >
 
-<table bgcolor=#39211D frameborder=no marginheight=0 border=0 cellpadding=0 cellspacing=0>
+<table bgcolor=#39211D frameborder=no marginheight=0 border=0 cellpadding=0 cellspacing=0 margin-left=0 margin-right=0 margin-top=0 height=12%>
 <tbody>
 <tr>
-<td style="position:fixed; _position:relative; z-index:3; left:0%; right:30%; top:0;" bgcolor=#39211D><img align=left alt="Un jpg magnifique devrait être visible ici" src="Tyr Chauvidan.jpg" style="flag-element Chauvidan; align:left; height:100%"/>
+<td style="position:fixed; _position:relative; z-index:3; height:100%; left:0%; right:30%; top:0;" bgcolor=#39211D><img align=left alt="Un jpg magnifique devrait être visible ici" src="Tyr Chauvidan.jpg" style="flag-element Chauvidan; align:left; height:100%"/>
 </td>
-<td style="position:fixed; _position:absolute;  z-index:3; left:30%; right:63%; top:0;" bgcolor=#39211D><img align=center alt="Vous ne voyez rien ?" src="Tyr Toussaint.jpg" style="flag-element Toussaint; align:left; height:100%"/>
+<td style="position:fixed; _position:absolute;  z-index:3; height:100%; left:30%; right:63%; top:0;" bgcolor=#39211D><img align=center alt="Vous ne voyez rien ?" src="Tyr Toussaint.jpg" style="flag-element Toussaint; align:left; height:100%"/>
 </td>
-<td style="position:fixed; _position:absolute; z-index:2; left:63%; top:0;" bgcolor=#39211D><img align=center alt="Décidément cet amateur de Jean-Marie Tschanz finit par nous faire douter de ses compétences" src="Tyr Delaunay bis.jpg" style= align:right; height:100%"/>
+<td style="position:fixed; _position:absolute; z-index:2; height:100%; left:63%; top:0;" bgcolor=#39211D><img align=center alt="Décidément cet amateur de Jean-Marie Tschanz finit par nous faire douter de ses compétences" src="Tyr Delaunay bis.jpg" style= align:right; height:100%"/>
 </td>
-<td style="position:fixed; _position:absolute; z-index:3; left:63%; top:0;" bgcolor=#39211D><img align=right alt="Qui a mal codé cette séquence ?" src="Tyr Delaunay float.png" style=flag-element Delaunay; align:right; height:100%"/>
+<td style="position:fixed; _position:absolute; z-index:3; height:100%; left:63%; top:0;" bgcolor=#39211D><img align=right alt="Qui a mal codé cette séquence ?" src="Tyr Delaunay float.png" style=flag-element Delaunay; align:right; height:100%"/>
 </td>
 </tr>
 </tbody>
@@ -45,7 +45,7 @@
 
 <iframe onLoad="actu_iframe()" allowTransparency="true" src="accueil.htm" name="content" id="id_iframe" frameborder=no marginheight=0 style="position:fixed; _position:absolute; _scrolling:yes; z-index:3; width:89%; left:11%; height:87.5%; top:117px; right:0px" >Your browser does not support iframes</iframe>
 
-<table bgcolor=#393939 style="z-index:4; position:fixed; _postion:absolute; height:58%; width:11%; left:0%; top:12%" />
+<table bgcolor=#888888 style="z-index:4; position:fixed; _postion:absolute; height:58%; width:11%; left:0%; top:12%" />
 	<tr><td height="8%" /></tr>
 	<tr><td height="8%" ><a href="liens.htm" onmouseover="javascript:newIframe(3)" name="Accueil" class="menu1">Accueil</a></td></tr>
 	<tr><td height="8%" ><a href="Rémy.htm" onmouseover="javascript:newIframe(2)" name="Tiemko avant Tiemko" class="menu1">Tiemko avant Tiemko</a></td></tr>
