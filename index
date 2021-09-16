@@ -18,13 +18,13 @@
 <table bgcolor=#39211D frameborder=no marginheight=0 border=0 cellpadding=0 cellspacing=0 margin-left=0 margin-right=0 margin-top=0 >
 <tbody height=19%>
 <tr>
-<td style="position:fixed; _position:relative; z-index:3; height:19%; left:0%; right:30%; top:0;" bgcolor=#39211D><img align=left alt="Un jpg magnifique devrait être visible ici" src="Tyr Chauvidan.jpg" style="flag-element Chauvidan; align:left; height:100%"/>
+<td style="position:fixed; _position:relative; z-index:3; height:19%; left:0%; right:30%; top:0;" bgcolor=#39211D><img align=left src="Tyr Chauvidan.jpg" style="flag-element Chauvidan; align:left; height:100%"/>
 </td>
-<td style="position:fixed; _position:absolute;  z-index:3; height:19%; left:30%; right:63%; top:0;" bgcolor=#39211D><img align=center alt="Vous ne voyez rien ?" src="Tyr Toussaint.jpg" style="flag-element Toussaint; align:left; height:100%"/>
+<td style="position:fixed; _position:absolute; z-index:3; height:19%; left:30%; right:63%; top:0;" bgcolor=#39211D><img align=center src="Tyr Toussaint.jpg" style="flag-element Toussaint" />
 </td>
-<td style="position:fixed; _position:absolute; z-index:2; height:19%; left:63%; top:0;" bgcolor=#39211D><img align=right alt="Décidément cet amateur de Jean-Marie Tschanz finit par nous faire douter de ses compétences" src="Tyr Delaunay bis.jpg" style= align:right"/>
+<td style="position:fixed; _position:absolute; z-index:2; height:19%; left:63%; top:0;" bgcolor=#39211D><img align=right src=Tyr Delaunay bis.jpg "/>
 </td>
-<td style="position:fixed; _position:absolute; z-index:3; height:19%; left:63%; top:0;" bgcolor=#39211D><img align=right alt="Qui a mal codé cette séquence ?" src="Tyr Delaunay float.png" style=flag-element Delaunay; align:right"/>
+<td style="position:fixed; _position:absolute; z-index:3; height:19%; left:63%; top:0;" bgcolor=#39211D><img align=right src=Tyr Delaunay float.png style=flag-element Delaunay/>
 </td>
 </tr>
 </tbody>
@@ -41,19 +41,19 @@
 <tr></td></tr>
 </table>
 
-<img src="Borniche.jpg" alt="Dommage si tu peux pas charger cette super image" left="0" style="z-index:1; top:0; left:0; right:0; width=100%; height=166%; position:fixed; alpha(opacity=28); opacity:0.28" />
+<img src="Borniche.jpg" left="0" style="z-index:1; top:0; left:0; right:0; width=100%; height=166%; position:fixed; alpha(opacity=28); opacity:0.28" />
 
 <iframe onLoad="actu_iframe()" allowTransparency="true" src="accueil.htm" name="content" id="id_iframe" frameborder=no marginheight=0 style="position:fixed; _position:absolute; _scrolling:yes; z-index:3; width:89%; left:11%; height:87.5%; top:117px; right:0px" >Your browser does not support iframes</iframe>
 
 <table bgcolor=#39211D style="z-index:4; position:fixed; _postion:absolute; height:58%; width:11%; left:0%; top:19%" />
 	<tr><td height="8%" /></tr>
 	<tr><td height="8%" ><a href="liens.htm" onmouseover="javascript:newIframe(3)" name="Accueil" class="menu1">Accueil</a></td></tr>
-	<tr><td height="8%" ><a href="Rémy.htm" onmouseover="javascript:newIframe(2)" name="Tiemko avant Tiemko" class="menu1">Tiemko avant Tiemko</a></td></tr>
-	<tr><td height="5%" ><a href="agenda.htm" onmouseover="javascript:newIframe(4)" name="Tiemko 1986-1995" class="menu2">Tiemko après 1995</a></td></tr>
-	<tr><td height="5%" ><a href="coulisses.htm" onmouseover="javascript:newIframe(5)" name="Tiemko après 1995" class="menu2">Tiemko après 1995</a></td></tr>
-	<tr><td height="5%" ><a href="Rémy Chauvidan en solo.htm" onmouseover="javascript:newIframe(6)" name="Rémy Chauvidan en solo" class="menu2">Rémy Chauvidan en solo</a></td></tr>
-	<tr><td height="5%" ><a href="Jean-Jacques Toussaint en solo.htm" onmouseover="javascript:newIframe(7)" name="Jean-Jacques Toussaint en solo" class="menu2">Jean-Jacques Toussaint en solo</a></td></tr>
-	<tr><td height="8%" ><a href="http://www.facebook.com/profile.php?id=670200647" onmouseover="javascript:newIframe(1)" name="forum" class="menu1">Forum</a></td></tr>	
+	<tr><td height="8%" ><a href="Tiemko avant Tiemko.htm" onmouseover="javascript:newIframe(2)" name="Tiemko avant Tiemko" class="menu1">Tiemko avant Tiemko</a></td></tr>
+	<tr><td height="5%" ><a href="Tiemko 1986-1995.htm" onmouseover="javascript:newIframe(4)" name="Tiemko 1986-1995" class="menu2">Tiemko 1986-1995</a></td></tr>
+	<tr><td height="5%" ><a href="Tiemko après 1995.htm" onmouseover="javascript:newIframe(5)" name="Tiemko après 1995" class="menu2">Tiemko après 1995</a></td></tr>
+	<tr><td height="5%" ><a href="Éric Delaunay en solo.htm" img="Éric Delaunay Parade" onmouseover="javascript:newIframe(6)" name="Éric Delaunay en solo" class="menu2">Éric Delaunay en solo</a></td></tr>
+	<tr><td height="5%" ><a href="Jean-Jacques Toussaint en solo.htm" img="Jean-Jacques Toussaint Parade" onmouseover="javascript:newIframe(7)" name="Jean-Jacques Toussaint en solo" class="menu2">Jean-Jacques Toussaint en solo</a></td></tr>
+	<tr><td height="8%" ><a href="Rémy Chauvidan en solo" img="Rémy Chauvidan Parade" onmouseover="javascript:newIframe(1)" name="forum" class="menu1">Rémy Chauvidan en solo</a></td></tr>	
 	<tr><td height="48%"></td></tr>
 </table>
 
