@@ -15,7 +15,7 @@
 
 <body margin-left=0 margin-right=0 margin-top=0 z-index=1 >
 
-<table bgcolor=#2A110D frameborder=no marginheight=0 border=0 cellpadding=0 cellspacing=0 margin-left=0 margin-right=0 margin-top=0 width=100% bgcolor=#2A110D>
+<table bgcolor=#2A110D frameborder=no marginheight=0 border=0 cellpadding=0 cellspacing=0 margin-left=0 margin-right=0 margin-top=0 width=100% bgcolor=#2A110D z-index=1>
 <tbody height=23%>
 <tr>
 <td style="position:fixed; _position:relative; z-index:3; height:23%; left:0%; right:35%; top:0;"><img align=left src="Tyr Chauvidan.jpg" style="flag-element Chauvidan; align:left; height:100%"/>
@@ -30,22 +30,11 @@
 </tbody>
 </table>
 
-<table style="position:relative; height:100% z-index:1;">
-<tr> 
-<td style="position:fixed; _position:absolute; z-index:2; left:40%; top:53px; COLOR: #4F4D43; FONT-WEIGHT: bold; FONT-SIZE: 80%; MARGIN-RIGHT:25px; MARGIN-BOTTOM:18px; TEXT-ALIGN:center; FONT-FAMILY: Tahoma, sans-serif">
-<div>Ce texte ne devrait pas être visible</div>
-</td></tr>
-</table>
+<img src="Borniche.jpg" left="0" style="z-index:1; top:23%; left:0; right:0; width=100%; position:fixed; alpha(opacity=48); opacity:0.48" />
 
-<table style="z-index:1; position:fixed; _position:absolute; height:77%; width:12%; left:0%; top:23%" >
-<tr></td></tr>
-</table>
+<iframe onLoad="actu_iframe()" allowTransparency="true" src="accueil.htm" name="content" id="id_iframe" frameborder=no marginheight=0 style="position:fixed; _position:absolute; _scrolling:yes; z-index:3; width:77%; left:19%; height:77%; top:23%; right:0%" >Your browser does not support iframes</iframe>
 
-<img src="Borniche.jpg" left="0" style="z-index:1; top:0; left:0; right:0; width=100%; height=166%; position:fixed; alpha(opacity=48); opacity:0.48" />
-
-<iframe onLoad="actu_iframe()" allowTransparency="true" src="accueil.htm" name="content" id="id_iframe" frameborder=no marginheight=0 style="position:fixed; _position:absolute; _scrolling:yes; z-index:3; width:77%; left:23%; height:77%; top:23%; right:0%" >Your browser does not support iframes</iframe>
-
-<table bgcolor=#2A110D style="z-index:4; position:fixed; _position:absolute; height:78%; width:23%; left:0%; top:23%" />
+<table bgcolor=#2A110D style="z-index:4; position:fixed; _position:absolute; height:78%; width:19%; left:0%; top:23%" />
 	<tr><td position:fixed; _position:relative; height:8%; left:3% /></tr>
 	<tr><td position:fixed; _position:relative; height:8%; left:3%  ><a href="liens.htm" onmouseover="javascript:newIframe(3)" name="Accueil" class="narr">Accueil</a></td></tr>
 	<tr><td position:fixed; _position:relative; height:8%; left:3%  ><a href="Ce qui permit Tiemko.htm" onmouseover="javascript:newIframe(2)" name="Ce qui permit Tiemko" class="narr">Ce qui permit Tiemko</a></td></tr>
