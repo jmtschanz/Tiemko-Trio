@@ -47,7 +47,7 @@
 
 <table bgcolor=#39211D style="z-index:4; position:fixed; _position:absolute; height:58%; width:11%; left:0%; top:19%" />
 	<tr><td height="8%" /></tr>
-	<tr><td height="8%" ><a href="liens.htm" onmouseover="javascript:newIframe(3)" name="Accueil" class="menu1">Accueil</a></td></tr>
+	<tr><td height="8%" ><a href="liens.htm" onmouseover="javascript:newIframe(3)" name="Accueil" class="narr">Accueil</a></td></tr>
 	<tr><td height="8%" ><a href="Ce qui permit Tiemko.htm" onmouseover="javascript:newIframe(2)" name="Ce qui permit Tiemko" class="narr">Ce qui permit Tiemko</a></td></tr>
 	<tr><td height="5%" ><a href="Tiemko 1986-1995.htm" onmouseover="javascript:newIframe(4)" name="Tiemko 1986-1995" class="narr">Tiemko 1986-1995</a></td></tr>
 	<tr><td height="5%" ><a href="Tiemko après 1995.htm" onmouseover="javascript:newIframe(5)" name="Tiemko après 1995" class="narr">Tiemko après 1995</a></td></tr>
