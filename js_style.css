@@ -69,7 +69,7 @@ TBODY{
     height:200px;
     margin:50px;
 }
-.flagElement Chauvidan {
+.flag-element Chauvidan {
     -webkit-animation:oscill 1s ease-in-out infinite alternate; 
     -moz-animation:oscill 1s ease-in-out infinite alternate; 
     -ms-animation:oscill 1s ease-in-out infinite alternate; 
@@ -82,7 +82,7 @@ TBODY{
     display:inline-block;
     box-shadow:0 1px grey, 0 -1px gray;
 }
-.flagElement Toussaint {
+.flag-element Toussaint {
     -webkit-animation:oscill 1s ease-in-out infinite alternate; 
     -moz-animation:oscill 1s ease-in-out infinite alternate; 
     -ms-animation:oscill 1s ease-in-out infinite alternate; 
@@ -96,7 +96,7 @@ TBODY{
     box-shadow:0 1px grey, 0 -1px gray;
 }
 
-.flagElement Delaunay {
+.flag-element Delaunay {
     -webkit-animation:oscill 1s ease-in-out infinite alternate; 
     -moz-animation:oscill 1s ease-in-out infinite alternate; 
     -ms-animation:oscill 1s ease-in-out infinite alternate; 
