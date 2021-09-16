@@ -46,11 +46,11 @@
 <iframe onLoad="actu_iframe()" allowTransparency="true" src="accueil.htm" name="content" id="id_iframe" frameborder=no marginheight=0 style="position:fixed; _position:absolute; _scrolling:yes; z-index:3; width:89%; left:11%; height:87.5%; top:117px; right:0px" >Your browser does not support iframes</iframe>
 
 <table bgcolor=#39211D style="z-index:4; position:fixed; _position:absolute; height:58%; width:11%; left:0%; top:19%" />
-	<tr><td left="3%" height="8%" /></tr>
-	<tr><td left="3%" height="8%" ><a href="liens.htm" onmouseover="javascript:newIframe(3)" name="Accueil" class="narr">Accueil</a></td></tr>
-	<tr><td left="3%" height="8%" ><a href="Ce qui permit Tiemko.htm" onmouseover="javascript:newIframe(2)" name="Ce qui permit Tiemko" class="narr">Ce qui permit Tiemko</a></td></tr>
-	<tr><td left="3%" height="5%" ><a href="Tiemko 1986-1995.htm" onmouseover="javascript:newIframe(4)" name="Tiemko 1986-1995" class="narr">Tiemko 1986-1995</a></td></tr>
-	<tr><td left="3%" height="5%" ><a href="Tiemko après 1995.htm" onmouseover="javascript:newIframe(5)" name="Tiemko après 1995" class="narr">Tiemko après 1995</a></td></tr>
+	<tr><td position:fixed; _position:relative; height:8%; left:3% /></tr>
+	<tr><td position:fixed; _position:relative; height:8%; left:3%  ><a href="liens.htm" onmouseover="javascript:newIframe(3)" name="Accueil" class="narr">Accueil</a></td></tr>
+	<tr><td position:fixed; _position:relative; height:8%; left:3%  ><a href="Ce qui permit Tiemko.htm" onmouseover="javascript:newIframe(2)" name="Ce qui permit Tiemko" class="narr">Ce qui permit Tiemko</a></td></tr>
+	<tr><td position:fixed; _position:relative; height:8%; left:3%  ><a href="Tiemko 1986-1995.htm" onmouseover="javascript:newIframe(4)" name="Tiemko 1986-1995" class="narr">Tiemko 1986-1995</a></td></tr>
+	<tr><td position:fixed; _position:relative; height:8%; left:3%  ><a href="Tiemko après 1995.htm" onmouseover="javascript:newIframe(5)" name="Tiemko après 1995" class="narr">Tiemko après 1995</a></td></tr>
 	<tr><td align=center ><a href="Éric Delaunay en solo.htm" onmouseover="javascript:newIframe(6)"><img src="Éric Delaunay Parade.jpg" height=65% width=65%></img></a></td></tr>
 	<tr><td align=center ><a href="Jean-Jacques Toussaint en solo.htm" onmouseover="javascript:newIframe(7)" /a><img src="Jean-Jacques Toussaint Parade.jpg" height=65% width=65%></img></td></tr>
 	<tr><td align=center ><a href="Rémy Chauvidan en solo" onmouseover="javascript:newIframe(1)"><img src="Rémy Chauvidan Parade.jpg" height=65% width=65%></img></a></td></tr>	
