@@ -6,7 +6,7 @@ linkURL = "index.htm"
 		}
 	}
 	
-Tiemkoframe = new Array ("accueil.htm", "CequipermitTiemko.htm", "Tiemko 1986-1995.htm,  "Tiemko post Tiemko.htm", "Éric accès.htm", "Jean-Jacques accès.htm",","Rémy accès.htm")
+Tiemkoframe = new Array ("accueil.htm", "CequipermitTiemko.htm", "Tiemko1986-1995.htm,  "TiemkopostTiemko.htm", "ED.htm", "JJT.htm",","RC.htm")
 		
 function newIframe(ach) {
 	content.document.location.href = Tiemkoframe[ach]
