@@ -18,9 +18,9 @@
 <table bgcolor=#6f6b67 frameborder=no marginheight=0 border=0 cellpadding=0 cellspacing=0>
 <tbody>
 <tr>
-<td style="position:fixed; _position:absolute; z-index:2; left:0; top:0;" bgcolor=#2A110D><img src="Tyr Chauvidan.jpg" class="flagChauvidan" />
+<td style="position:fixed; _position:relative; z-index:2; left:0; top:0;" bgcolor=#2A110D><img src="Tyr Chauvidan.jpg" class="flagChauvidan" />
 </td>
-<td style="z-index:4; align=center; top:0;" bgcolor=#2A110D><img src="Tyr Toussaint.jpg"; class="flagToussaint" />
+<td align=center style="z-index:4; top:0;" bgcolor=#2A110D><img src="Tyr Toussaint.jpg"; class="flagToussaint" />
 </td>
 <td style="position:fixed; _position:absolute; z-index:3; left:73%; right=0%; top:0px; height=23%; bgcolor=#2A110D"><img align=right src="Tyr Delaunay bis.jpg"; display=inline-block;
   overflow=hidden; margin-top=0px; bgcolor=#2A110D></img>
