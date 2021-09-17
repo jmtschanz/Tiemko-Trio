@@ -13,21 +13,21 @@
 
 </head>
 
-<body margin-left=0 margin-right=0 margin-top=0px; z-index=1 bgcolor=#2A110D; top=0px >
+<body margin-left=0 margin-right=0 margin-top=0 z-index=1 bgcolor=#2A110D>
 
-<table bgcolor=#2A110D frameborder=no marginheight=0 border=0 cellpadding=0 cellspacing=0 margin-top=0px; margin-left=0px; margin-right=0px; width=100% z-index=1 height=205px>
-<tbody width=100%; height=205px>
+<table bgcolor=#6f6b67 frameborder=no marginheight=0 border=0 cellpadding=0 cellspacing=0>
+<tbody>
 <tr>
-<td position:fixed; _position:absolute; bgcolor=#2A110D"><img align=left; bgcolor=#2A110D; src="Tyr Chauvidan.jpg"; display=inline-block;
+<td style="position:fixed; _position:absolute; z-index:2; left:0; top:0;" bgcolor=#2A110D"><img align=left; bgcolor=#2A110D; src="Tyr Chauvidan.jpg"; display=inline-block;
   overflow: hidden; class="flagChauvidan"></img>
 </td>
 <td style="z-index:4; left:35%; right:73%; top:0px; height=23%; bgcolor=#2A110D"><img src="Tyr Toussaint.jpg"; align=center; bgcolor=#2A110D; display=inline-block;
   overflow=hidden; margin-top=0px; class="flagToussaint"></img>
 </td>
-<td position:fixed; _position:absolute; style="z-index:3; left:73%; right=0%; top:0px; height=23%; bgcolor=#2A110D"><img align=right src="Tyr Delaunay bis.jpg"; display=inline-block;
+<td style="position:fixed; _position:absolute; z-index:3; left:73%; right=0%; top:0px; height=23%; bgcolor=#2A110D"><img align=right src="Tyr Delaunay bis.jpg"; display=inline-block;
   overflow=hidden; margin-top=0px; bgcolor=#2A110D></img>
 </td>
-<td position:fixed; _position:absolute; style="z-index:4; left:73%; right=0%; top:0px; height=23%; bgcolor=#2A110D"><img align=right src="Tyr Delaunay float.png"; display=inline-block;
+<td style="position:fixed; _position:absolute; z-index:4; left:73%; right=0%; top:0px; height=23%; bgcolor=#2A110D"><img align=right src="Tyr Delaunay float.png"; display=inline-block;
   overflow=hidden; margin-top=0px; bgcolor=#2A110D; class="flagDelaunay"></img>
 </td>
 </tr>
