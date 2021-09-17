@@ -22,9 +22,9 @@
 </td>
 <td style="_position:relative; z-index:3; left:35%; right:73%; top:0; height=23%; bgcolor=#2A110D"><img src="Tyr Toussaint.jpg"; height=23%; bgcolor=#2A110D; class="flagToussaint"></img>
 </td>
-<td style="position:fixed; _position:absolute; z-index:2; left:73%; top:0; height=23%; bgcolor=#2A110D"><img align=right src="Tyr Delaunay bis.jpg"; height=23%; bgcolor=#2A110D></img>
+<td style="_position:relative; z-index:2; left:73%; top:0; height=23%; bgcolor=#2A110D"><img align=right src="Tyr Delaunay bis.jpg"; height=23%; bgcolor=#2A110D></img>
 </td>
-<td style="position:fixed; _position:absolute; z-index:3; left:73%; top:0; height=23%; bgcolor=#2A110D"><img align=right src="Tyr Delaunay float.png"; height=23%; bgcolor=#2A110D; class="flagDelaunay"></img>
+<td style="_position:relative; z-index:3; left:73%; top:0; height=23%; bgcolor=#2A110D"><img align=right src="Tyr Delaunay float.png"; height=23%; bgcolor=#2A110D; class="flagDelaunay"></img>
 </td>
 </tr>
 </tbody>
@@ -34,10 +34,10 @@
 
 <iframe onLoad="actu_iframe()" allowTransparency="true" src="accueil.htm" name="content" id="id_iframe" frameborder=no marginheight=0 style="position:fixed; _position:absolute; _scrolling:yes; z-index:3; width:84%; left:16%; height:77%; top:23%; right:0%" >Your browser does not support iframes</iframe>
 
-<table style="z-index:4; position:fixed; _position:absolute; height:150%; width:16%; left:0%; top:23%" />
+<table bgcolor=#2A110D style="z-index:4; position:fixed; _position:relative; height:150%; width:16%; left:0%; top:23%" />
 	<tr><td height:22%; left:3% /></tr>
 	<tr><td height:12%; left:3%  ><a href="accueil.htm" onmouseover="javascript:newIframe(1)" name="Accueil" class="menu2">Accueil</a></td></tr>
-	<tr><td position:fixed; _position:relative; height:12%; left:3%  ><a href="Ce qui permit Tiemko.htm" onmouseover="javascript:newIframe(2)" name="Ce qui permit Tiemko" class="menu2">Ce qui permit Tiemko</a></td></tr>
+	<tr><td height:12%; left:3%  ><a href="Ce qui permit Tiemko.htm" onmouseover="javascript:newIframe(2)" name="Ce qui permit Tiemko" class="menu2">Ce qui permit Tiemko</a></td></tr>
 	<tr><td height:12%; left:3%  ><a href="Tiemko 1986-1995.htm" onmouseover="javascript:newIframe(3)" name="Tiemko 1986-1995" class="narr">Tiemko 1986-1995</a></td></tr>
 	<tr><td height:12%; left:3%  ><a href="Tiemko après 1995.htm" onmouseover="javascript:newIframe(4)" name="Tiemko après 1995" class="narr">Tiemko après 1995</a></td></tr>
 	<tr><td align=center ><a href="Éric Delaunay en solo.htm" onmouseover="javascript:newIframe(5)"><img src="Éric Delaunay Parade.jpg" height:52%; width=52%></img></a></td></tr>
