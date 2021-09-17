@@ -33,10 +33,6 @@
 </table>
 
 <table bgcolor=#6f6b67; z-index:1; height:150%; width:16%; align:center; top:205px >
-
-<img src="Borniche.jpg"; style="width=100%; z-index:1;  top=205px; alpha(opacity=48); opacity:0.48" />
-
-
 <iframe onLoad="actu_iframe()" allowTransparency="true" src="accueil.htm" name="content" id="id_iframe" frameborder=no marginheight=0 style="z-index:3; position:fixed; _position:absolute; _scrolling:yes; z-index:3; width:84%; left:16%; height:77%; top:205px; right:0%" >Your browser does not support iframes</iframe>
 
 <table bgcolor=#2A110D style="z-index:4; position:fixed; _position:relative; height:140%; width:16%; left:0%; top:205px" />
