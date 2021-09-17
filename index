@@ -34,14 +34,14 @@
 </tbody>
 </table>
 
-<table bgcolor=#6f6b67; z-index:1; height:150%; width:16%; align:center; top:23% >
+<table bgcolor=#6f6b67; z-index:1; height:150%; width:16%; align:center; top:205px >
 <tr>
 
 <img src="Borniche.jpg" left="0" style="z-index:1; top:23%; left:0; right:0; width=100%; position:fixed; alpha(opacity=48); opacity:0.48" />
 
 <iframe onLoad="actu_iframe()" allowTransparency="true" src="accueil.htm" name="content" id="id_iframe" frameborder=no marginheight=0 style="position:fixed; _position:absolute; _scrolling:yes; z-index:3; width:84%; left:16%; height:77%; top:23%; right:0%" >Your browser does not support iframes</iframe>
 
-<table bgcolor=#2A110D style="z-index:4; position:fixed; _position:relative; height:140%; width:16%; left:0%; top:23%" />
+<table bgcolor=#2A110D style="z-index:4; position:fixed; _position:relative; height:140%; width:16%; left:0%; top:205px" />
 	<tr><td height:22%; left:3% /></tr>
 	<tr><td height:12%; left:3%  ><a href="accueil.htm" onmouseover="javascript:newIframe(1)" name="Accueil" class="menu2">Accueil</a></td></tr>
 	<tr><td height:12%; left:3%  ><a href="Ce qui permit Tiemko.htm" onmouseover="javascript:newIframe(2)" name="Ce qui permit Tiemko" class="menu2">Ce qui permit Tiemko</a></td></tr>
