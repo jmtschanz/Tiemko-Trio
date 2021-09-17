@@ -34,9 +34,8 @@
 </tbody>
 </table>
 
-<table bgcolor=#6f6b67 style="z-index:1; height:150%; width:16%; align:center top:23%" >
-<tr></tr>
-</table>
+<table bgcolor=#6f6b67; z-index:1; height:150%; width:16%; align:center; top:23% >
+<tr>
 
 <img src="Borniche.jpg" left="0" style="z-index:1; top:23%; left:0; right:0; width=100%; position:fixed; alpha(opacity=48); opacity:0.48" />
 
@@ -52,6 +51,8 @@
 	<tr><td align=center ><a href="Jean-Jacques Toussaint en solo.htm" onmouseover="javascript:newIframe(6)" /a><img src="Jean-Jacques Toussaint Parade.jpg" height:52%; width=52%></img></td></tr>
 	<tr><td align=center ><a href="Rémy Chauvidan en solo" onmouseover="javascript:newIframe(7)"><img src="Rémy Chauvidan Parade.jpg" height:52%; width=52%></img></a></td></tr>	
 	<tr><td height="48%"></td></tr>
+</table>
+</tr>
 </table>
 
 </body>
