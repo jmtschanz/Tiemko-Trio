@@ -177,11 +177,11 @@ top: expression(
 
 
 
-#serre (background-image:url("serre.jpg") alt="Dommage si tu peux pas charger cette super image" left="0" position:fixed; z-index:2; top:0; left:0; right:0; width=100%; height=166% filter:alpha(opacity=8); opacity:0.08" )
+#borniche (background-image:url("borniche.jpg") alt="Dommage si tu peux pas charger cette super image" left="0" position:fixed; z-index:2; top:0; left:0; right:0; width=100%; height=166% filter:alpha(opacity=8); opacity:0.08" )
 
 
-.serre {
-	background-image:url("serre.jpg");
+.borniche {
+	background-image:url("borniche.jpg");
 	position:absolute;
 	top:0px;
 	left:0px;
