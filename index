@@ -1,56 +1,125 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link href="js_style.css" 
+type=text/css rel=stylesheet></link>
+	<title>Accueil</title>
+	<script language="Javascript" type="text/javascript">
+		<!-- Hide script from old browsers
 
-<head><title>Tiemko</title>
-<meta http-equiv=Content-Type content="text/html; charset=UTF-8" />
-<meta content="Tiemko, Rémy Chauvidan, Éric Delaunay, Jean-Jacques Toussaint" name=keywords />
-<meta content="Un site de fan de Tiemko" name=description />
-	
-<link href="js_style.css" type=text/css rel=stylesheet></link>
-	
-<script src="js/Sitiframe.js" language="Javascript" type="text/javascript" ></script>
+		if (top.location == self.location) {
+			self.location.replace("index.htm?accueil.htm")
+		}
+		// End hiding script from old browsers -->
+	</script>	
+</meta></head>
 
-<script src="js/flag.js" language="Javascript" type="text/javascript" ></script>
+<body style="background:transparent; position:absolute">
 
-</head>
-
-<body margin-left=0 margin-right=0 margin-top=0 z-index=2 bgcolor=#2A110D>
-
-<table style="z-index=2 bgcolor=#6f6b67" frameborder=no marginheight=0 border=0 cellpadding=0 cellspacing=0>
-<tbody>
+<table width=100% border="0">
+<tr><td height=55 align=left valign=bottom class=narr><b>14.4.14.</b></td>
+</tr>
 <tr>
-<td style="position:fixed; _position:relative; z-index:3; left:0; top:0;" bgcolor=#2A110D><img src="Tyr Chauvidan.jpg" class="flagChauvidan" />
-</td>
-<td align=center style="position:fixed; _position:relative; z-index:3; top:0; left:35%" bgcolor=#2A110D><img src="Tyr Toussaint.jpg"; class="flagToussaint" />
-</td>
-<td style="position:fixed; _position:absolute; z-index:3; left:73%; right=0%; top:0px; bgcolor=#2A110D"><img align=right src="Tyr Delaunay bis.jpg"; display=inline-block;
-  overflow=hidden; margin-top=0px; bgcolor=#2A110D></img>
-</td>
-<td style="position:fixed; _position:absolute; z-index:4; left:73%; right=0%; top:0px;  bgcolor=#2A110D"><img align=right src="Tyr Delaunay float.png"; display=inline-block;
-  overflow=hidden; margin-top=0px; bgcolor=#2A110D; class="flagDelaunay"></img>
-</td>
+<td height=35 align=left valign=bottom class=narr>Devant mon propre reflet je crus à une manifestation du sacré. Je voulus me prosterner mais mon reflet faisant de même, je renonçai et partis.</td>
 </tr>
-</tbody>
-</table>
+<tr><td height=40 align=left valign=bottom class=narr><b>7.10.12.</b></td>
+</tr>
+<tr>
+<td height=70 align=left valign=bottom class=narr>L'homme d'autorité harangua l'immense foule massée à perte de vue devant la tribune. "Mesdames
+et Messieurs...Mais qui suis-je ? Et pourquoi ce rassemblement ?" Dans la foule, parmi les panneaux publicitaires brandis, on avait sprayé 
+sur les toiles des mots comme "On t'a bien eu" ou "Je porte de bonnes chaussures".</td>
+</tr>
+<tr><td height=40 align=left valign=bottom class=narr><b>4.10.12.</b></td>
+</tr>
+<tr><td height=65 align=left valign=bottom class=narr>De redoutables haut-parleurs de poche sans nombre, une fois projetés en masse dans la 
+zone ennemie, diffusaient les textes, les sons propres dans le contexte culturel du territoire visé à inciter au ramollissement 
+des combattants. Par la dispersion de tracts, on fit de même pour les yeux ce qu'on fit pour les oreilles, sachant que 
+les armes visant à apaiser l'ennemi par les autres sens étaient nettement moins efficaces.</td>
+</tr>
+<tr><td height=50 align=left valign=bottom class=narr><b>6.12.11.</b></td>
+</tr>
+<tr><td height=65 align=left valign=bottom class=narr>Debout face aux rebelles qui forçaient la porte de son alcôve, le tyran plaça une croûte de pain entre ses dents et ses lèvres, remuant une bouche alors si tordue, désarmant l'adversaire par des yeux si bellement implorants que tout en l'ayant reconnu, les nouveaux maîtres ne purent se convaincre d'avoir trouvé la bonne personne et poursuivirent leur traque hors de la pièce.</td>
+</tr>
+<tr><td height=75 align=left valign=bottom class=narr>Renonçant aux issues devant lesquelles se plaçaient de petits ronds-de-cuir pantouflards, les rebelles guettèrent d'éventuelles voies de retraite. Leur victoire était écrasante et ils disposaient de la femme du tyran dont ils "broutaient" les cheveux. Mais devant la complexité de la situation l'envie générale de se rendre l'emporta. Les rebelles demandèrent à être enfermés et à se maltraiter entre eux dans une prison.</td>
+</tr>
+<tr><td height=45 align=left valign=bottom class=narr><b>3.12.11.</b></td>
+</tr>
+<tr><td height=65 align=left valign=bottom class=narr>Alors vint le temps béni où la vie parut nous chérir d'un amour absolu. Afin d'éviter qu'un tel bonheur ne se vît trop, on se cachait des voisins qui, comblés autant que nous, faisaient de même. Invulnérables, nous nous croyions vulnérables, et d'autant plus insolents. Une intense bouffée de paix intérieure sublima les moindres germes de culpabilité; les plus répugnants grains de poussière nous parurent des trésors.</td>
+</tr>
+<tr><td height=45 align=left valign=bottom class=narr><b>21.11.11.</b></td>
+</tr>
+<tr><td height=65 align=left valign=bottom class=narr>Des glaçons ont apaisé une main gauche que le franchissement du "Pas de la Vérité" ( sur la portion de gauche du mur d'enceinte Sud Ouest du collège du Belvédère ) et celui, bien plus à droite, du "Pas de la Porte" ( la porte est celle d'un local utilisé par le service des routes et de la mobilité lausannois ), avait endommagée; "magon.zone-mondiale.org" n'échappe pas aux offensives réfectrices.</td>
+</tr>
+<tr><td height=45 align=left valign=bottom class=narr><b>25.11.9.</b></td>
+</tr>
+<tr><td height=35 align=left valign=bottom class=narr>"Demi", "Résistant" et "Écho" rajoutés dans "Oeuvres", le lien du milieu.</td>
+</tr>
+<tr><td height=45 align=left valign=bottom class=narr><b>19.11.9.</b></td>
+</tr>
+<tr><td height=100 align=left valign=bottom class=narr>La mise au point, depuis longtemps souhaitable, d'un AUTOMATE À BAKCHICH blindé et "inviolable", est en cours... L'identification rétinienne permet l'extraction par la machine d'un billet par jour et par personne ( valeur maximum : cinq dollars ). Qu'il soit endommagé ; que plus d'un mend(i)ant s'en approche à moins d'un mètre ; ou qu'une infraction soit tentée : alors l'automate est bloqué et l'entreprise de sécurité à sa charge reçoit un appel. La surface du robot est tapissée de cellules de détection : une caméra et un logiciel de reconnaissance permettent d'identifier rapidement tout fauteur de troubles et de le priver de bakchich pour un temps proportionnel à la gravité de son infraction.</td></td>
+</tr>
+<tr><td height=85 align=left valign=bottom class=narr>Une pièce habitable faite de nanites a buggé et la transformation automatique du mobilier a été effectuée en présence d'une ménagère et de son nourrisson de 3 mois, qui étaient alors assis dans le coin de la pièce : souffrant d'écrasements et de lésions internes, coincés sur l'un des luxueux centres de plaisance aménagés à hauteur quasi-orbitale sous le gigantesque Circuit de Lancement ( Pacifique ), ils ont vécu de terribles heures. Mais après on les a aidés.</td>
+</tr>
+<tr><td height=40 align=left valign=bottom class=narr><b>8.8.9.</b></td>
+</tr>
+<tr><td height=20 align=left valign=bottom class=narr><b></b></td>
+</tr>
+<tr><td align=left valign=bottom class=narr>Depuis quelques temps, Jean-Marie Tschanz regrette de n'être pas haut de 40-45 cm de moins. Eût-il manqué davantage dans la vie avec une taille ainsi réduite?</td>
+</tr>
+<tr><td height=45 align=left valign=bottom class=narr>On imagine un être frêle mordu, piétiné, piqué gravement par les obstacles inertes ou animés de passage. Comme si mesurer un bon mètre ne pouvait suffire au meilleur confort !</td>
+</tr>
+<tr><td height=105 align=left valign=bottom class=narr>Que de nourriture, que de pétrole, que de coton épargnés à taille moindre, toutes proportions gardées ! Jean-Marie Tschanz se joint moralement aux mouvements ( dont parmi eux certains dits "écoracistes" ) qui luttent contre l'image des icônes de la réussite sportive, le sport symbolisant aux yeux de l'écologiste la débauche de consommation d'énergie et de nourriture au nom de distractions non indispensables. L'épanouissement vital est par trop montré et célébré en gourmand d'énergie. Avant l'élaboration d'un contrôle génétique quasi-total sur la croissance d'un enfant, les peuples de taille moyenne importante seront appelés à renoncer à procréer, du moins entre eux.</b></td>
+</tr>
 
-<table bgcolor=#6f6b67; z-index:1; height:150%; width:16%; align:center; top:205px >
+<tr><td height=150 align=left valign=bottom class=narr>Passons à tout autre chose, à présent, et parlons d'une probable et future plainte pénale. Ayant intelligiblement accordé à certains organismes, invertébrés pour la plupart, lorsqu'il était possible de les trouver en mobilité assez réduite pour les croire en état de dialoguer, un temps de parole plus que suffisant pour défendre leur cause, Jean-Marie Tschanz ne parvenant rien à en tirer malgré de nombreux avertissements diplomatiquement réitérés suite à l'une ou l'autre infraction ( dommages à la propriété ) – au contraire ! le plus souvent outre le silence ou quelques bourdonnements, Mr Tschanz devait apprécier devant lui un habit d'apparat aux tons froids, ternes ou bistres – décida de tenir pour irresponsables ces partenaires en intrusion et en chercha les tuteurs, en premier lieu et logiquement ses voisins, vu que le droit local attribue l'intrusion d'un organisme non inscrit à aucun régistre comme sous responsabilité de la dernière personne n'ayant pas porté plainte contre ledit organisme lorsqu'il se trouvait sur sa propriété.</td>
+</tr>
+<tr><td height=40 align=left valign=bottom class=narr>Restait à apporter les preuves accablant ces derniers voisins, une enquête qui n'est pas des plus légères.</td>
+</tr>
 
-<img src="Borniche.jpg" left="0" style="z-index:2; top:0; left:0; right:0; width=100%; height=166%; position:fixed; filter:alpha(opacity=48); opacity:0.48" />
+<tr><td height=55 align=left valign=bottom class=narr><b>14.11.8.</b></td>
+</tr>
+<tr><td height=50 align=left valign=bottom class=narr>D'insondables canyons sont sur le point de composer pour toujours le nouveau visage au vieillissement désormais visible de Jean-Marie Tschanz. Une réflexion s'imposait; la voici.</td>
+</tr>
+<tr><td height=30 align=left valign=bottom class=narr>Si dans 10 ans je garde la même apparence qu'aujourd'hui, OK, ça me va.</td>
+</tr>
+<tr><td height=20 align=left valign=bottom class=narr>Si dans 20 ans je garde la même apparence qu'aujourd'hui, OK.</td>
+</tr>
+<tr><td height=20 align=left valign=bottom class=narr>Si dans 30 ans je garde la même apparence qu'aujourd'hui, très bien.</td>
+</tr>
+<tr><td height=20 align=left valign=bottom class=narr>Si dans 40 ans je garde la même apparence qu'aujourd'hui, disons que ça s'est déjà vu.</td>
+</tr>
+<tr><td height=40 align=left valign=bottom class=narr>Et dans 55 ans ?</td>
+</tr>
+<tr><td height=70 align=left valign=bottom class=narr>Le projet de RESTAURANT RACISTE, un établissement au personnel déshumanisé dont un logiciel détermine au hasard et chaque jour un nombre variable et modéré de groupes éthniques ou de races à exclure, devrait être popularisé sous peu.</td>
+</tr>
+<tr><td height=45 align=left valign=bottom class=narr><b>12.11.8.</b></td>
+</tr>
+<tr><td height=45 align=left valign=bottom class=narr>J'ouvris la porte d'entrée, et vis dans la pénombre les verdures transies par le froid de novembre : arbustes, fougères, pavés, n'en menaient pas large.</td>
+</tr>
+<tr><td height=40 align=left valign=bottom class=narr>"Splendide !", leur adressai-je, avant de rentrer. Quelle bonne surprise pour les nôtres du dehors qu'un tel compliment!</td>
+</tr>
+<tr><td height=60 align=left valign=bottom class=narr>Avec un pic, défoncé le sol de la cuisine, épais comme une seule longueur de main :  des choses du ciel et d'ailleurs, loin au-dessous de cette nouvelle ouverture.</td>
+</tr>
 
-<iframe onLoad="actu_iframe()" allowTransparency="true" src="accueil.htm" name="content" id="id_iframe" frameborder=no marginheight=0 style="z-index:3; position:fixed; _position:absolute; _scrolling:yes; z-index:3; width:84%; left:16%; height:77%; top:205px; right:0%" >Your browser does not support iframes</iframe>
-
-<table bgcolor=#2A110D style="z-index:4; position:fixed; _position:relative; height:140%; width:16%; left:0%; top:205px" />
-	<tr><td height:22%; left:3% /></tr>
-	<tr><td height:12%; left:3%  ><a href="accueil.htm" onmouseover="javascript:newIframe(1)" name="Accueil" class="menu2">Accueil</a></td></tr>
-	<tr><td height:12%; left:3%  ><a href="CequipermitTiemko.htm" onmouseover="javascript:newIframe(2)" name="Ce qui permit Tiemko" class="menu2">Ce qui permit Tiemko</a></td></tr>
-	<tr><td height:12%; left:3%  ><a href="Tiemko 1986-1995.htm" onmouseover="javascript:newIframe(3)" name="Tiemko 1986-1995" class="menu2">Tiemko 1986-1995</a></td></tr>
-	<tr><td height:12%; left:3%  ><a href="Tiemko après 1995.htm" onmouseover="javascript:newIframe(4)" name="Tiemko après 1995" class="menu2">Tiemko après 1995</a></td></tr>
-	<tr><td align=center ><a href="Éric Delaunay en solo.htm" onmouseover="javascript:newIframe(5)"><img src="Éric Delaunay Parade.jpg" height:52%; width=52%></img></a></td></tr>
-	<tr><td align=center ><a href="Jean-Jacques Toussaint en solo.htm" onmouseover="javascript:newIframe(6)" /a><img src="Jean-Jacques Toussaint Parade.jpg" height:52%; width=52%></img></td></tr>
-	<tr><td align=center ><a href="Rémy Chauvidan en solo" onmouseover="javascript:newIframe(7)"><img src="Rémy Chauvidan Parade.jpg" height:52%; width=52%></img></a></td></tr>	
-	<tr><td height="48%"></td></tr>
-</table>
+<tr><td height=40 align=left valign=bottom class=narr><b>26.12.7.</b></td>
+</tr>
+<tr><td height=55 align=left valign=bottom class=narr>La mise en page des textes de Magon a été révisée hier avant les chants de Noël. Sans vouloir te choquer j'ai ma foi un peu modifié certains textes et passages qui ne me disaient plus rien.</td></td>
+</tr>
+<tr><td height=45 align=left valign=bottom class=narr><b>9.8.7.</b></td>
+</tr>
+<tr><td height=70 align=left valign=bottom class=narr>Oh non !  Une erreur de rédaction, la troisième que je remarque en neuf ans, mais paradoxalement la plus voyante, dans l'une des magnifiques pochettes de Dolulus ! Tous les livrets + la vue arrière de Dolulus 2 devront être renvoyés, à l'adresse dite au même endroit que celui où au moins 2 fautes blessent le regard, dans l'espoir du remplacement de ta pochette.</td>
+</tr>
+<tr><td height=50 align=left valign=bottom class=narr><b>19.4.7.</b></td>
+</tr>
+<tr><td height=85 align=left valign=bottom class=narr>Salut ! Magon a été mis à jour... Mes nouvelles : Je dois mettre de la musique sur les fichiers à Biétry après être allé chercher un pédalier ZOOM chez P*** hier 18 avril ( 2007... Ah là là ces 2 vendeurs... Chez H*** il y en a un que je trouve super... Mais ZOOM n'y est pas commandable ). Le dico du Scrabble m'apprend de nouveaux mots avec lesquels, de soleil bombardé pour lutter contre un psoriasis en fête, il est possible de former des textes assez curieux pour s'extraire de toute routine...</td>
+</tr>
+<tr><td height=50 align=left />
 </tr>
 </table>
 
-</body>
-</html>
+</tr>
+</td>
+</table>
+
+</body></html>
