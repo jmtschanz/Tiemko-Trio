@@ -18,7 +18,7 @@
 <table bgcolor=#2A110D frameborder=no marginheight=0 border=0 cellpadding=0 cellspacing=0 margin-top=0px; margin-left=0px; margin-right=0px; width=100% z-index=1 height=205px>
 <tbody width=100%; height=205px; >
 <tr>
-<td z-index:2; left:0%; right:35%; top:0px; height=205px; bgcolor=#2A110D"><img align=left; bgcolor=#2A110D; src="Tyr Chauvidan.jpg"; display=inline-block;
+<td position:fixed; _position:absolute; bgcolor=#2A110D"><img align=left; bgcolor=#2A110D; src="Tyr Chauvidan.jpg"; display=inline-block;
   overflow: hidden; class="flagChauvidan"></img>
 </td>
 <td style="z-index:4; left:35%; right:73%; top:0px; height=23%; bgcolor=#2A110D"><img src="Tyr Toussaint.jpg"; align=center; bgcolor=#2A110D; display=inline-block;
