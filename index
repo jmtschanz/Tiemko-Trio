@@ -15,7 +15,7 @@
 
 <body margin-left=0 margin-right=0 margin-top=0 z-index=1 bgcolor=#2A110D>
 
-<table bgcolor=#6f6b67 z-index=2 frameborder=no marginheight=0 border=0 cellpadding=0 cellspacing=0>
+<table bgcolor=#6f6b67 frameborder=no marginheight=0 border=0 cellpadding=0 cellspacing=0>
 <tbody bgcolor=#6f6b67>
 <tr>
 <td style="position:fixed; _position:relative; z-index:3; left:0; top:0;" bgcolor=#2A110D><img src="Tyr Chauvidan.jpg" class="flagChauvidan" />
@@ -34,7 +34,7 @@
 
 <table bgcolor=#6f6b67; z-index:1; height:150%; width:16%; align:center; top:205px >
 
-<img src="Borniche.jpg"; z-index:1; style="width=100%; top=205px; position:fixed; alpha(opacity=48); opacity:0.48" />
+<img src="Borniche.jpg"; style="width=100%; z-index:1;  top=205px; alpha(opacity=48); opacity:0.48" />
 
 
 <iframe onLoad="actu_iframe()" allowTransparency="true" src="accueil.htm" name="content" id="id_iframe" frameborder=no marginheight=0 style="position:fixed; _position:absolute; _scrolling:yes; z-index:3; width:84%; left:16%; height:77%; top:205px; right:0%" >Your browser does not support iframes</iframe>
