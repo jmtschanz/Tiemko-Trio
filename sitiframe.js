@@ -6,9 +6,9 @@ linkURL = "index.htm"
 		}
 	}
 	
-Magonframe = new Array ("accueil.htm", "forumacces.htm","oeuvresacces.htm","liensacces.htm","avant.htm", "Tiemko1986-1995.htm,  "TiemkopostTiemko.htm", "ed.htm", "jjt.htm",","rc.htm")
+Tiemkoframe = new Array ("accueil.htm", "forumacces.htm","oeuvresacces.htm","liensacces.htm","agendaacces.htm","coulissesacces.htm","temoinsacces.htm","projetsacces.htm","oeuvres.htm","liens.htm","agenda.htm","coulisses.htm","temoins.htm","projets.htm","images.htm","musique.htm","musmat.htm","imgmat.htm")
 		
 function newIframe(ach) {
-	content.document.location.href = Magonframe[ach]
+	content.document.location.href = Tiemkoframe[ach]
 
 }
