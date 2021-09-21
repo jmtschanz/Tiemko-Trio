@@ -1,7 +1,5 @@
-charset=utf-8
-
 .titre {
-	COLOR: #544A42; FONT-WEIGHT: bold;  FONT-SIZE: 1.2em; MARGIN-TOP:6px; MARGIN-BOTTOM:6px; MARGIN-LEFT:2em; FONT-FAMILY: Tahoma, sans-serif }
+	CHARSET: utf-8; COLOR: #544A42; FONT-WEIGHT: bold;  FONT-SIZE: 1.2em; MARGIN-TOP:6px; MARGIN-BOTTOM:6px; MARGIN-LEFT:2em; FONT-FAMILY: Tahoma, sans-serif }
 	
 		a {text-decoration: none; COLOR: #f1f1f1 }
 		a:visited {color: #FFEEC5 }
@@ -33,8 +31,8 @@ charset=utf-8
 .narr2 { STYLE="position:absolute; left:240px; width:600px"
 	COLOR: #000000 }	
 
-.narrctr {
-	COLOR: #F1F1F1; FONT-WEIGHT: bold;  FONT-SIZE: 12px; TEXT-Align:center; FONT-FAMILY: Tahoma, sans-serif }
+.narrctr { 
+	CHARSET: utf-8; COLOR: #F1F1F1; FONT-WEIGHT: bold;  FONT-SIZE: 12px; TEXT-Align:center; FONT-FAMILY: Tahoma, sans-serif }
 
 
 
