@@ -1,4 +1,7 @@
 
+.titre {
+	COLOR: #F2AB02; FONT-WEIGHT: bold;  FONT-SIZE: 1.2em; MARGIN-TOP:6px; MARGIN-BOTTOM:6px; MARGIN-LEFT:2em; FONT-FAMILY: Tahoma, sans-serif }
+	
 .menu1 {
 	COLOR: #FFEEC5; FONT-WEIGHT: bold;  FONT-SIZE: 1.2em; MARGIN-LEFT:1em; MARGIN-TOP:8px; MARGIN-BOTTOM:0.5em; FONT-FAMILY: Tahoma, sans-serif }
 
@@ -12,8 +15,8 @@
 		a:visited {color: #FFEEC5 }
 		a:hover {color: #C2C2C4}
 		
-.narr { 
-	COLOR: #03F7F4; FONT-WEIGHT: bold;  FONT-SIZE: 16px; TEXT-Align:left; FONT-FAMILY: Tahoma, sans-serif }
+.lien { 
+	COLOR: #03A9A3; FONT-WEIGHT: bold;  FONT-SIZE: 16px; TEXT-Align:left; FONT-FAMILY: Tahoma, sans-serif }
 
 .narr2 { STYLE="position:absolute; left:240px; width:600px"
 	COLOR: #000000 }	
@@ -24,9 +27,7 @@
 .barretitre {
 	border=0px; cellpadding=0px; cellspacing=0px; style="position:fixed; _position:absolute; z-index:3; height:117; width:100%; top:0;
 
-.titre {
-	COLOR: #F2AB02; FONT-WEIGHT: bold;  FONT-SIZE: 1.2em; MARGIN-TOP:6px; MARGIN-BOTTOM:6px; MARGIN-LEFT:2em; FONT-FAMILY: Tahoma, sans-serif }
-	
+
 }
 .avanttitre {
 	COLOR: #000000; FONT-WEIGHT: bold; FONT-SIZE: 12px; TEXT-ALIGN: right; MARGIN-RIGHT:81px; MARGIN-bottom:10px; FONT-FAMILY: Tahoma, sans-serif
