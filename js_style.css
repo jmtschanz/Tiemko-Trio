@@ -1,10 +1,6 @@
 .titre {
 	COLOR: #F2AB02; FONT-WEIGHT: bold;  FONT-SIZE: 1.2em; MARGIN-TOP:6px; MARGIN-BOTTOM:6px; MARGIN-LEFT:2em; FONT-FAMILY: Tahoma, sans-serif }
 	
-		a {text-decoration: none; COLOR: #f1f1f1 }
-		a:visited {color: #FFEEC5 }
-		a:hover {color: #C2C2C4}
-	
 }
 .avanttitre {
 	COLOR: #000000; FONT-WEIGHT: bold; FONT-SIZE: 12px; TEXT-ALIGN: right; MARGIN-RIGHT:81px; MARGIN-bottom:10px; FONT-FAMILY: Tahoma, sans-serif
