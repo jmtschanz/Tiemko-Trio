@@ -1,10 +1,11 @@
 .menu {
 	COLOR: #03A9A3; FONT-WEIGHT: bold;  FONT-SIZE: 0.9em; MARGIN-TOP:6px; MARGIN-BOTTOM:6px; MARGIN-LEFT:2em; FONT-FAMILY: Tahoma, sans-serif 
-}
+
 	
 		a {text-decoration: none; COLOR: #03A9A3 }
 		a:visited {color: #03A9A3 }
 		a:hover {color: #404040}
+}
 
 .titre {
 	COLOR: #F2AB02; FONT-WEIGHT: bold;  FONT-SIZE: 1.2em; MARGIN-TOP:6px; MARGIN-BOTTOM:6px; MARGIN-LEFT:2em; FONT-FAMILY: Tahoma, sans-serif 
