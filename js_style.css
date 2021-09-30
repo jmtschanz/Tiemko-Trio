@@ -23,6 +23,12 @@
 }
 
 
+.menu3 {
+	COLOR: #FFEEC5; FONT-WEIGHT: bold;  FONT-SIZE: 0.9em; MARGIN-LEFT:1em; MARGIN-TOP:8px; MARGIN-BOTTOM:0.5em; FONT-FAMILY: Tahoma, sans-serif }
+
+		a:visited {color: #C2C2C4 }
+		a:hover {color: #F1F1F1}
+
 .menu2 {
 	COLOR: #E79F87; FONT-WEIGHT: bold;  FONT-SIZE: 0.82em; MARGIN-TOP:6px; MARGIN-BOTTOM:6px; MARGIN-LEFT:2em; FONT-FAMILY: Tahoma, sans-serif }
 	
@@ -30,7 +36,7 @@
 		a:visited {color: #FFEEC5 }
 		a:hover {color: #C2C2C4}
 
-.menu1 {
+.menu3 {
 	COLOR: #FFEEC5; FONT-WEIGHT: bold;  FONT-SIZE: 1.2em; MARGIN-LEFT:1em; MARGIN-TOP:8px; MARGIN-BOTTOM:0.5em; FONT-FAMILY: Tahoma, sans-serif }
 
 		a:visited {color: #C2C2C4 }
