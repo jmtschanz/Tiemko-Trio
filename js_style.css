@@ -29,8 +29,12 @@
 .narr { 
 	COLOR: #0152D9; FONT-WEIGHT: bold;  FONT-SIZE:16px; TEXT-Align:left; MARGIN-LEFT:35px; FONT-FAMILY: Tahoma, sans-serif }
 
-.narr2 { STYLE="position:absolute; left:240px; width:600px"
-	COLOR: #000000 }	
+
+.narr2 { 
+	COLOR: #03C1D7; FONT-WEIGHT: bold;  FONT-SIZE: 16px; TEXT-Align:left; FONT-FAMILY: Tahoma, sans-serif }
+		a {text-decoration: none; COLOR: #f1f1f1 }
+		a:visited {color: #FFEEC5 }
+		a:hover {color: #C0C0C0}	
 
 .narrctr { 
 	COLOR: #FFEEC5; FONT-WEIGHT: bold;  FONT-SIZE: 16px; TEXT-Align:left; FONT-FAMILY: Tahoma, sans-serif }
