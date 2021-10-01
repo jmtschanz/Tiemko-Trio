@@ -1,5 +1,6 @@
 body { 
 	COLOR: #FFEEC5; FONT-WEIGHT: bold;  FONT-SIZE: 16px; TEXT-Align:left; FONT-FAMILY: Tahoma, sans-serif }	
+#lien {bgdcolor:#03A9A3]
 
 .titre {
 	COLOR: #F2AB02; FONT-WEIGHT: bold;  FONT-SIZE: 1.2em; MARGIN-TOP:6px; MARGIN-BOTTOM:6px; MARGIN-LEFT:2em; FONT-FAMILY: Tahoma, sans-serif 
@@ -26,7 +27,7 @@ body {
 		a:visited {color: #FFEEC5 }
 		a:hover {color: #C2C2C4}
 		
-.narrctr { 
+.narr { 
 	COLOR: #03A9A3; FONT-WEIGHT: bold;  FONT-SIZE:16px; TEXT-Align:left; MARGIN-LEFT:35px; FONT-FAMILY: Tahoma, sans-serif }
 		a text-decoration: none; COLOR: #03A9A3 }
 		a:visited {color: #03A9A3 }
