@@ -7,13 +7,17 @@
 	
 
 .avanttitre {
-	COLOR: #000000; FONT-WEIGHT: bold; FONT-SIZE: 12px; TEXT-ALIGN: right; MARGIN-RIGHT:81px; MARGIN-bottom:10px; FONT-FAMILY: Tahoma, sans-serif
-}
+	COLOR: #03C1D7; FONT-WEIGHT: bold; FONT-SIZE: 16px; FONT-FAMILY: Tahoma, sans-serif}
+			
+		a {text-decoration: none; COLOR: #f1f1f1 }
+		a:visited {color: #FFEEC5 }
+		a:hover {color: #C2C2C4}
+		
 .pretitre {
-	COLOR: #F2AB02; FONT-WEIGHT: bold;  FONT-SIZE: 17px; TEXT-ALIGN: center;  FONT-FAMILY: Tahoma, sans-serif 
+	COLOR: #F2AB02; FONT-WEIGHT: bold;  FONT-SIZE:  0.82em; TEXT-ALIGN: center;  FONT-FAMILY: Tahoma, sans-serif 
 }
 .menu1 {
-	COLOR: #FFEEC5; FONT-WEIGHT: bold;  FONT-SIZE: 1.2em; MARGIN-LEFT:1em; MARGIN-TOP:8px; MARGIN-BOTTOM:0.5em; FONT-FAMILY: Tahoma, sans-serif }
+	COLOR: #03C1D7; FONT-WEIGHT: bold;  FONT-SIZE: 1.2em; MARGIN-LEFT:1em; MARGIN-TOP:8px; MARGIN-BOTTOM:0.5em; FONT-FAMILY: Tahoma, sans-serif }
 
 		a:visited {color: #C2C2C4 }
 		a:hover {color: #F1F1F1}
