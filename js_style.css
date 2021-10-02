@@ -7,7 +7,9 @@
 
 .narrctr { 
 	COLOR: #F1F1F1; FONT-WEIGHT: bold;  FONT-SIZE: 16px; TEXT-Align:left; FONT-FAMILY: Tahoma, sans-serif }
-
+		a {text-decoration: none; COLOR: #f1f1f1 }
+		a:visited {color: #FFEEC5 }
+		a:hover {color: #C2C2C4}
 .deboco {
 	COLOR: #03C1D7; FONT-WEIGHT: bold;  FONT-SIZE: 16px; MARGIN-LEFT:1em; MARGIN-TOP:8px; MARGIN-BOTTOM:0.5em; FONT-FAMILY: Tahoma, sans-serif }
 		a {text-decoration: none; COLOR: #f1f1f1 }
@@ -15,9 +17,9 @@
 
 .menu2 {
 	COLOR: #E79F87; FONT-WEIGHT: bold;  FONT-SIZE: 0.82em; MARGIN-TOP:6px; MARGIN-BOTTOM:6px; MARGIN-LEFT:2em; FONT-FAMILY: Tahoma, sans-serif }
-	
 		a {text-decoration: none; COLOR: #f1f1f1 }
 		a:visited {color: #FFEEC5 }
 		a:hover {color: #C2C2C4}
+		
 		
 		
