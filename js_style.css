@@ -32,8 +32,8 @@
 
 .narr2 { 
 	COLOR: #03C1D7; FONT-WEIGHT: bold;  FONT-SIZE: 16px; TEXT-Align:left; FONT-FAMILY: Tahoma, sans-serif }
-		a {text-decoration: none; COLOR: #f1f1f1 }
-		a:visited {color: #FFEEC5 }
+		a {text-decoration: none; COLOR: #03C1D7 }
+		a:visited {color: #03C1D7 }
 		a:hover {color: #C0C0C0}	
 
 .narrctr { 
