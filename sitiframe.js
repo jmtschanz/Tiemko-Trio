@@ -17,7 +17,7 @@ function ChangeImg() {
   document.getElementById("myImg").src = "Accueilx.png";
 }
 
-function cChangeImg2() {
+function ChangeImg2() {
   document.getElementById("myImg").src = "Avantx.png";
 }
 
