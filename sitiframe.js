@@ -16,5 +16,5 @@ function newIframe(ach) {
 ChangeImgMenu = new Array ("Accueilx.png", "Avantx.png", "1986-1995x.png", "Après1995x.png")
 
 function ChangeImg(x) {
-	document.location.src = ChangeImgMenu[x]
+	document.src = ChangeImgMenu[x]
    }
