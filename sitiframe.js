@@ -13,8 +13,18 @@ function newIframe(ach) {
 
 }
 
-ChangeImgMenu = new Array ("Accueilx.png", "Avantx.png", "1986-1995x.png", "Après1995x.png")
+function ChangeImg() {
+  document.getElementById("myImg").src = "Accueilx.png";
+}
 
-function ChangeImg(x) {
-	document.src = ChangeImgMenu[x]
-   }
+function cChangeImg2() {
+  document.getElementById("myImg").src = "Avantx.png";
+}
+
+function ChangeImg3() {
+  document.getElementById("myImg").src = "1986-1995.png";
+}
+ 
+function ChangeImg4() {
+  document.getElementById("myImg").src = "Après1995.png";
+}
