@@ -22,9 +22,25 @@ function ChangeImg2() {
 }
 
 function ChangeImg3() {
-  document.getElementById("myImg").src = "1986-1995.png";
+  document.getElementById("myImg").src = "1986-1995x.png";
 }
  
 function ChangeImg4() {
+  document.getElementById("myImg").src = "Après1995x.png";
+}
+
+function ChangeImg5() {
+  document.getElementById("myImg").src = "Accueil.png";
+}
+
+function ChangeImg6() {
+  document.getElementById("myImg").src = "Avant.png";
+}
+
+function ChangeImg7() {
+  document.getElementById("myImg").src = "1986-1995.png";
+}
+
+function ChangeImg8() {
   document.getElementById("myImg").src = "Après1995.png";
 }
