@@ -37,10 +37,6 @@ if (document.images) {
 	}
 
 	
-	function chgImg(imgField,newImg) {
-		if (document.images) {
-			document[imgField].src= eval(newImg + ".src")
-		}
 		
 function change(menuId, image, newImage, newUrl)
 {
