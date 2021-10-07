@@ -35,6 +35,7 @@ if (document.images) {
 		Après1995x.src = "Après1995x.png"
 
 	}
+
 	
 	function chgImg(imgField,newImg) {
 		if (document.images) {
