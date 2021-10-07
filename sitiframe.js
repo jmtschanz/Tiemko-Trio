@@ -36,13 +36,3 @@ if (document.images) {
 
 	}
 
-	
-		
-function change(menuId, image, newImage, newUrl)
-{
-    var mayday = document.getElementById(image);
-    mayday.src = newImage;
-    document.getElementById('d3').href = newUrl;
-
-} 
-
