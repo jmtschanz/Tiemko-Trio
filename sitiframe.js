@@ -11,17 +11,3 @@ Tiemkoframe = new Array ("accueil.htm", "accueil.htm","avant.htm", "1986-1995.ht
 function newIframe(ach) {
 	content.document.location.href = Tiemkoframe[ach]
 }
-
-function rollover(avt)
-		{
-	
-			avt.src = 'Avantx.png';
-	
-		}
-function mouseaway(avt)
-		{
-	
-			my_image.src = "Avant.png";
-	
-		}
-onmouseover="rollover(this)" onmouseout="mouseaway(this)"
