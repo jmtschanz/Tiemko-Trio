@@ -17,12 +17,12 @@ ChgImg = new Array ("Accueil.png", "Accueilx.png", "Avant.png", "Avantx.png", "1
 function rollover(avtx)
 		{
 	
-		parent.document.src = ChgImg[avtx]
+		document.write.src = ChgImg[avtx]
 	
 		}
 function mouseaway(avt)
 		{
 	
-		parent.document.src = ChgImg[avt]
+		document.write.src = ChgImg[avt]
 	
 		}
