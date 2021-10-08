@@ -12,21 +12,6 @@ function newIframe(ach) {
 	content.document.location.href = Tiemkoframe[ach]
 }
 
-ChgImg = new Array ("Accueil.png", "Accueilx.png", "Avant.png", "Avantx.png", "1986-1995.png", "1986-1995x.png", "après1995.png", "après1995x.png","ed.htm","jjt.htm","rc.htm","Deboco.htm")
-
-function rollover(avtx)
-		{
-	
-		document.write.src = ChgImg[avtx]
-	
-		}
-function mouseaway(avt)
-		{
-	
-		document.write.src = ChgImg[avt]
-	
-		}
-
 if (document.images) {
 		Accl = new Image
 		Avnt = new Image
