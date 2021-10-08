@@ -15,22 +15,22 @@ function newIframe(ach) {
 if (document.images) {
 		Accl = new Image
 		Avnt = new Image
-		1986-95 = new Image
+		Mil = new Image
 		Apr = new Image
 
 		Accl.src = "Accueil.png"
 		Avnt.src = "Avant.png"
-		1986-95.src = "1986-1995.png"
+		Mil.src = "1986-1995.png"
 		Apr.src = "Après1995.png"
 	
 		Acclx = new Image
 		Avntx = new Image
-		1986-95x = new Image
+		Milx = new Image
 		Aprx = new Image
 
 		Acclx.src = "Accueilx.png"
 		Avntx.src = "Avantx.png"
-		1986-95x.src = "1986-1995x.png"
+		Milx.src = "1986-1995x.png"
 		Aprx.src = "Après1995x.png"
 
 	}
