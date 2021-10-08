@@ -1,5 +1,8 @@
-TD {
-	COLOR: #FFEEC5; FONT-WEIGHT: bold;  FONT-SIZE: 16px; FONT-FAMILY: verdana, Tahoma, sans-serif }
+img {
+    max-width: 100%;
+    max-height: 100vh;
+    height: auto;
+}
 
 .titre {
 	COLOR: #F2AB02; FONT-WEIGHT: bold;  FONT-SIZE: 1.2em; MARGIN-TOP:6px; MARGIN-BOTTOM:6px; MARGIN-LEFT:2em; FONT-FAMILY: Tahoma, sans-serif }
