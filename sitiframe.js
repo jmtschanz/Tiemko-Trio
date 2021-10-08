@@ -23,4 +23,3 @@ function mouseaway(avt)
 			avt.src = "Avant.png";
 	
 		}
-onmouseover="rollover(this)" onmouseout="mouseaway(this)"
