@@ -23,6 +23,6 @@ function rollover(avtx)
 function mouseaway(avt)
 		{
 	
-			avt.src = "Avant.png";
+			document.location.src = ChgImg[avt]
 	
 		}
