@@ -12,3 +12,17 @@ function newIframe(ach) {
 	content.document.location.href = Tiemkoframe[ach]
 
 }
+
+function rollover(my_image)
+		{
+	
+			my_image.src = 'images/costAnalysisBtn2.png';
+	
+		}
+function mouseaway(my_image)
+		{
+	
+			my_image.src = "images/costAnalysisBtn1.png";
+	
+		}
+onmouseover="rollover(this)" onmouseout="mouseaway(this)"
