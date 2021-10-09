@@ -12,14 +12,6 @@ function newIframe(ach) {
 	content.document.location.href = Tiemkoframe[ach]
 }
 
-function bdh() {
-        $('body').height($(window).height());
-    }
-    $(document).ready(function() {
-        $(window).bind('resize', bdh);
-        bdh();
-    }
-
 if (document.images) {
 		Accl = new Image
 		Avnt = new Image
