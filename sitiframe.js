@@ -35,10 +35,10 @@ if (document.images) {
 
 	}
 
-function set_body_height() { // set body height = window height
+function bdh() {
         $('body').height($(window).height());
     }
     $(document).ready(function() {
-        $(window).bind('resize', set_body_height);
-        set_body_height();
+        $(window).bind('resize', bdh);
+        bdh();
     }
