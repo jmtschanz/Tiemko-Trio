@@ -15,6 +15,13 @@
 		}
 	</script>		
 
+		function bdh() {
+        $('body').height($(window).height());
+    }
+    $(document).ready(function() {
+        $(window).bind('resize', bdh);
+        bdh();
+    }
 	
 <script src="sitiframe.js" language="Javascript" type="text/javascript" ></script>	
 
