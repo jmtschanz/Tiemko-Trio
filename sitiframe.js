@@ -6,13 +6,6 @@ linkURL = "index.htm"
 		}
 	}
 
-	function bdh() {
-        $('body').height($(window).height());
-    }
-    $(document).ready(function() {
-        $(window).bind('resize', bdh);
-        bdh();
-    }
 
 Tiemkoframe = new Array ("", "accueil.htm","avant.htm", "1986-1995.htm", "après1995.htm","ed.htm","jjt.htm","rc.htm","Deboco.htm")
 		
