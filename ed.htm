@@ -7,31 +7,41 @@
 
 <link href="js_style.css" type=text/css rel=stylesheet></link>
 
-<script src="sitiframe.js" language="Javascript" type="text/javascript" ></script>		
+<script src="sitiframe.js" language="Javascript" type="text/javascript" ></script>
+	
+	function set_body_height() { // set body height = window height
+        $('body').height($(window).height());
+    }
+    $(document).ready(function() {
+        $(window).bind('resize', set_body_height);
+        set_body_height();
+    }
+
+</head>
 													     
 <body margin-left=0 margin-right=0 margin-top=0 bgcolor=#2A110D>
 	
 <table>	
 <tr>
-<td style="position:fixed; _position:absolute; top:0px; left:0px; right:0; filter:alpha(opacity=38); opacity:0.38"><img src="Borniche crop.jpg" width:100%  />
-</td>
+<td style="position:fixed; _position:absolute; top:0px; left:0px; right:0; filter:alpha(opacity=38); opacity:0.38"><img src="Borniche crop.jpg" width:100% />
 </tr>
 </table>
 
-<table  style="align:center;z-index=2 frameborder=no marginheight=0 border=0 cellpadding=0 cellspacing=0" width=80%>
+<table style="position:relative _position:relative width=80% z-index=2 frameborder=no marginheight=0 border=0 cellpadding=0 cellspacing=0" >
 	
 <tr height=45px />
 
 <tr>
 <td class=titre>ÉRIC DELAUNAY 1953-1996</td>
 </tr>
+	
 <tr>
-<td height= 54px></td>
+<td height= 54px />
 </tr>
 
 
 <tr>
-<td height=30px></td>
+<td height=30px />
 </tr>
 	
 <tr>
@@ -40,7 +50,7 @@
 </tr>
 
 <tr>
-<td height=30px></td>
+<td height=30px />
 </tr>	
 	
 <tr>
@@ -48,13 +58,15 @@
 </tr>
 	
 <tr>
-<td height=30px></td>
+<td height=30px />
 </tr>
+	
 <tr>
 <td  class=narrctr>
 Avant de former TIEMKO, nous avions décidé avec Eric de travailler sur des compositions mutuelles. Nous nous réunissions régulièrement dans l'appartement qu'il occupait alors à Paris, rue Saint-Simon dans le 7ème arrondissement. Armés d'un piano, d'un vibraphone et d'une batterie, nous avons mis sur pied un certain nombre de morceaux que l'on enregistrait ensuite sur un revox. Je dois encore avoir sur cassette quelques uns de ces morceaux. L'expérience a duré pendant un an environ...
 Cette appartement (un vaste duplex) avait été l'atelier de sa grand-mère Sonia Delaunay que j'avais eu l'occasion de rencontrer quelques années auparavant en compagnie d'Eric. Il y avait toute sorte de toiles répandues un peu partout... La plupart de Sonia Delaunay, mais sans signature car il s'agissait le plus souvent de travaux préparatoires. Je me souviens d'une toile, une espèce de grosse tache jaune qui éclatait comme une étoile, et qui butait sur la piano et me gênait. Eric me dit "Tu peux virer ça, c'est une grosse merde" ; "et de qui est cette grosse merde ?" lui demandais-je. "De Max Ernst"... répondit-il.
-Eric vivait ainsi de ces rentes dans le patrimoine familial.</td>
+Eric vivait ainsi de ces rentes dans le patrimoine familial.
+</td>
 </tr>
 
 <tr>
