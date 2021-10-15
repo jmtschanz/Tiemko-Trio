@@ -8,13 +8,14 @@
 
 <link href="js_style.css" type=text/css rel=stylesheet></link>
 	
-function set_body_height() { // set body height = window height
+<script>	function set_body_height() { // set body height = window height
         $('body').height($(window).height());
     }
     $(document).ready(function() {
         $(window).bind('resize', set_body_height);
         set_body_height();
     }
+</script>
 	
 <script src="sitiframe.js" language="Javascript" type="text/javascript" ></script>
 
