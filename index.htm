@@ -3,81 +3,75 @@
 	
 <head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta content="Tiemko, Rémy Chauvidan, Éric Delaunay, Jean-Jacques Toussaint" name=keywords />
+<meta content="Tiemko, RÃ©my Chauvidan, Ã‰ric Delaunay, Jean-Jacques Toussaint" name=keywords />
 <meta content="Un site de fan de Tiemko" name=description />
 
 <link href="js_style.css" type=text/css rel=stylesheet></link>
 	
+<script>	function set_body_height() { // set body height = window height
+        $('body').height($(window).height());
+    }
+    $(document).ready(function() {
+        $(window).bind('resize', set_body_height);
+        set_body_height();
+    }
+</script>
+	
 <script src="sitiframe.js" language="Javascript" type="text/javascript" ></script>
-
-	<script language="Javascript" type="text/javascript">
-		<!-- Hide script from old browsers
-
-		if (top.location == self.location) {
-			self.location.replace("index.htm?accueil.htm")
-		}
-		// End hiding script from old browsers -->
-	</script>		
 
 </head>
 
-<body margin-left=0 margin-right=0 margin-top=0>
-
-<table align=center border="0" width=90%>
-<tr height=55px />
-
+<body margin-left=0 margin-right=0 margin-top=0 bgcolor=#2A110D>
+	
+<table>	
 <tr>
-<td>
-<img src="Studio 718x480.jpg" />
+<td style="position:fixed; _position:absolute; top:164px; left:205px; right:0; filter:alpha(opacity=38); opacity:0.38"><img src="Borniche crop.jpg" width:84%  />
 </td>
 </tr>
-	
+</table>
+
+<table  style="position:fixed; _position:absolute; width=100% height=164px z-index=2 frameborder=no marginheight=0 border=0 cellpadding=0 cellspacing=0">
+<tr bgcolor=#2A110D>
+<td style="position:fixed; _position:absolute; z-index:6; left:0; top:0; class="flagChauvidan"><img src="Entete.png" /></td>
+</tr>
+</table>
+
+
+<iframe onLoad="actu_iframe()" allowTransparency="true" z-index=9 src="accueil.htm" id="id_iframe" name="content" frameborder=no marginheight=0 style="position:fixed; _position:absolute; scrolling:yes; width:92%; height:92%; left:16%; top:164px; right:0px" >Your browser does not support iframes</iframe>
+
+<table style="z-index:9; position:fixed; _postion:absolute; height:1600px; width:230px; left:0%; top:164px"; bgcolor=#2A110D />
+		<tr><td></td></tr>
+		<tr><td>
+			<table>
+				<tr><td align=center margin-left:5% margin-top:0% margin-right:=0% margin-bottom:0%><a href="accueil.htm" name="accueil"><img width:auto height:auto src=Accueil.png onmousemove="javascript:newIframe(1); src=Acclx.src" onmouseout="src=Accl.src" /></a></td></tr>
+				<tr><td align=center margin-left:5% margin-top:0% margin-right:=0% margin-bottom:0%><a href="avant.htm" name="avant"><img width:auto height:auto src=Avant.png onclick="indexavant.htm" onmouseenter="javascript:newIframe(2); src=Avntx.src" onmouseout="src=Avnt.src" /></a></td></tr>
+				<tr><td align=center margin-left:5% margin-top:0% margin-right:=0% margin-bottom:0%><a href="1986-1995.htm" name="1986-1995"><img width:auto height:auto src=1986-1995.png onclick="index1986-1995.htm" onmouseenter="javascript:newIframe(3);src=Milx.src" onmouseout="src=Mil.src" /></a></td></tr>
+				<tr><td align=center margin-left:5% margin-top:0% margin-right:=0% margin-bottom:0%><a href="aprÃ¨s1995.htm" name="aprÃ¨s1995"><img width:auto height:auto src=AprÃ¨s1995.png onclick="indexAprÃ¨s1995.htm" onmouseover="javascript:newIframe(4); src=Aprx.src" onmouseout="src=Apr.src" /></a></td></tr>
 <tr>
 <td height=30px></td>
 </tr>
-
-<tr>
-<td  class=narrctr>Ce site permet de compléter les infos disponibles sur les CDs de Tiemko (et projets en rapport) et la (re-)découverte de documents. Pour davantage d'infos il suffit d'acquérir les CDs de Tiemko !</td>
-</tr>
-	
+		<tr><td  align=center><a href="ed.htm" onclick="indexed.htm" onmouseover="javascript:newIframe(5)"><img src="Ã‰ric Delaunay Parade.jpg" height:52%; width=52%></img></a></td></tr>
 <tr>
 <td height=30px></td>
 </tr>
-
-<tr>
-<td>
-<img src="Trio noir et blanc 707x480.jpg" />
-</td>
-</tr>
-
+		<tr><td  align=center><a href="jjt.htm" onclick="indexjjt.htm" onmouseover="javascript:newIframe(6)"><img src="Jean-Jacques Toussaint Parade.jpg" height:52%; width=52% /></a></td></tr>
 <tr>
 <td height=30px></td>
 </tr>
-	
-<tr>
-<td class=narrctr>Bonne exploration ! Si vous possédez un document, article de presse, affich(ett)e, vidéo (même de qualité médiocre), enregistrement en rapport, n'hésitez pas à prendre contact !</td>
-</tr>
-<tr>
-<td height=50px></td>
-</tr>
-<td></td>
-<tr height=20px />
-<tr><td class=narrctr><tr height=20px />
-<tr><td></td></tr>
-<tr>
-<td height=50px></td>
-</tr>
+		<tr><td  align=center><a href="rc.htm" onclick="indexrc.htm" onmouseover="javascript:newIframe(7)"><img src="RÃ©my Chauvidan Parade.jpg" height:52%; width=52% /></a></td></tr>
 
+			</table>
+		</td></tr>
 <tr>
-<td height=30px></td>
-</tr>
-<tr>
-<td>
-</td  height=20px>
-</tr>
-	
+<td height=1330px></td>
+</tr>		
 </table>
 
 </body>
+</html>
+Â© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
 
 </html>
